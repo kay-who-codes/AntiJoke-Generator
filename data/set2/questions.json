@@ -1,0 +1,26 @@
+{
+    "variable1": [
+        "a duck", "a politician", "quantum physics", "your mom", "a unicorn", "a startup founder", "ancient mythology", "a toddler", "a conspiracy theorist", "a black hole", 
+        "a poet", "a vampire", "a dream", "a stand-up comedian", "a wizard", "a TikTok influencer", "a ghost", "a philosopher", "a meme", "a time traveler",
+        "a banana", "the internet", "a cult leader", "a supernova", "a Karen", "a UFO", "a mermaid", "a gambler", "a glitch", "a cryptid",
+        "a fairy", "a stock market", "a dictator", "a mirage", "a hypebeast", "a neutron star", "a bard", "a poltergeist", "a placebo", "a Sim",
+        "a leprechaun", "a MLM scheme", "a parallel universe", "a fandom", "a chaos theorist", "a sentient AI", "a genie", "a flat-earther", "a deja vu", "a sock puppet",
+        "a gremlin", "an algorithm", "a karma system", "a sleep paralysis demon", "a furby", "a Mandela Effect", "a tulpa", "a glitch in the Matrix", "a thought experiment", "a NPC",
+        "a will-o'-the-wisp", "a dopamine hit", "a Schrödinger's cat", "a backrooms entity", "a zodiac sign", "a fractal", "a self-insert fanfic", "a Discord mod", "a glitchcore aesthetic", "a liminal space",
+        "a chaos emerald", "a vibe check", "a cursed image", "a brainworm", "a gender reveal fire", "a SCP entity", "a lore drop", "a vibe shift", "a glitch art", "a Twitter thread",
+        "a sleep-deprived idea", "a hyperfixation", "a core memory", "a gaslight gatekeep girlboss", "a backstory trauma", "a retconned plotline", "a collective hallucination", "a vibecession", "a glitch hop song", "a wojak meme",
+        "a fake deep quote", "a limerick", "a cryptic tweet", "a glitched Pokémon", "a lost media", "a creepypasta", "a Tumblr post", "a cursed technique", "a glitchy VHS tape", "a thoughtform"
+    ],
+    "variable2": [
+        "a bicycle", "a used car salesman", "classical physics", "your dad", "a horse", "a corporate CEO", "modern science", "a teenager", "a fact-checker", "a neutron star",
+        "a novelist", "a werewolf", "a spreadsheet", "a late-night host", "a scientist", "a newspaper columnist", "a zombie", "an engineer", "a viral tweet", "a historian",
+        "a stapler", "a library", "a motivational speaker", "a campfire", "a HOA president", "a weather balloon", "a manatee", "an accountant", "a typo", "a cryptographer",
+        "a goblin", "a grocery store", "a bureaucrat", "a puddle", "a sneakerhead", "a white dwarf", "a journalist", "a ghoul", "a control group", "a Tamagotchi",
+        "a troll", "a pyramid scheme", "a vending machine", "a lore wiki", "a statistician", "a Roomba", "a lawyer", "a round-earther", "a memory lapse", "a ventriloquist dummy",
+        "a kobold", "a spreadsheet formula", "a credit score", "a snoring grandpa", "a Furby with dead batteries", "a typo in a history book", "a sock with no pair", "a Windows error message", "a case study", "a background character",
+        "a flashlight", "a serotonin boost", "Newton's apple", "an IKEA employee", "a Myers-Briggs type", "a pie chart", "a Wikipedia edit war", "a Reddit moderator", "a corporate art style", "a waiting room",
+        "a power washer", "a vibe killer", "a blessed image", "an earworm", "a controlled burn", "a fire extinguisher", "a plot hole", "a status quo", "a lo-fi beat", "a Reddit AMA",
+        "a well-rested idea", "a casual hobby", "a repressed memory", "a LinkedIn post", "a minor inconvenience", "a continuity error", "a factually accurate documentary", "a stable economy", "a smooth jazz track", "a boomer meme",
+        "a legit profound quote", "a haiku", "a clear instruction manual", "a properly coded Pokémon", "a found footage", "a Wikipedia article", "a Facebook status", "a common sense", "a pristine Blu-ray", "a spreadsheet formula"
+    ]
+}
